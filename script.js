@@ -92,141 +92,128 @@ document.addEventListener("DOMContentLoaded", () => {
     "Chemistry": {
       "1": {
         major: [
-          { name: "212801 - Inorganic Chemistry", credit: 3 },
-          { name: "212803 - Organic Chemistry", credit: 3 },
-          { name: "212805 - Physical Chemistry", credit: 3 },
-          { name: "212806 - Chemistry Practical-I", credit: 3 },
+          { name: "212801 - Physical Chemistry-I", credit: 3 },
+          { name: "212803 - Fundamentals of Organic Chemistry", credit: 3 },
+          { name: "212805 - Fundamentals of Inorganic Chemistry", credit: 3 },
+          { name: "212806 - Chemistry Practical: Qualitative inorganic analysis, inorganic preparations and elementary crystal chemistry", credit: 3 },
           { name: "213709 - Fundamentals of Mathematics", credit: 4 },
           { name: "213711 - Calculus-I", credit: 2 }
         ],
         nonMajor: [
-          { name: "212701 - Mechanics", credit: 3 },
-          { name: "212706 - Physics Practical-I", credit: 3 },
-          { name: "213607 - Introduction to Statistics", credit: 4 },
-          { name: "213608 - Statistics Practical-I", credit: 2 },
-          { name: "211501 - History of the Emergence of Independent Bangladesh", credit: 4 }
+          { name: "212707 - Physics-I (Mechanics, Properties of Matter, Waves & Optics)", credit: 4 },
+          { name: "212709 - Physics-II (Heat, Thermodynamics and Radiation)", credit: 2 },
+          { name: "211501 - History of the Emergence of Independent of Bangladesh", credit: 4 }
         ]
       },
       "2": {
         major: [
-          { name: "222801 - Analytical Chemistry", credit: 3 },
-          { name: "222803 - Biochemistry", credit: 3 },
-          { name: "222805 - Industrial Chemistry", credit: 3 },
-          { name: "222806 - Chemistry Practical-II", credit: 3 },
-          { name: "223709 - Vector Analysis", credit: 3 },
-          { name: "223711 - Differential Equations", credit: 3 }
+          { name: "222801 - Physical Chemistry-II", credit: 4 },
+          { name: "222803 - Organic Chemistry", credit: 4 },
+          { name: "222805 - Chemistry of the Representative Elements", credit: 4 },
+          { name: "222806 - Quantitative Inorganic Analysis (Practical)", credit: 4 },
+          { name: "223707 - Calculus-II", credit: 4 },
+          { name: "223708 - Math Lab (Practical)", credit: 2 }
         ],
         nonMajor: [
-          { name: "222701 - Electricity and Magnetism", credit: 3 },
-          { name: "222706 - Physics Practical-II", credit: 3 },
-          { name: "223607 - Probability and Statistics", credit: 4 },
-          { name: "223608 - Statistics Practical-II", credit: 2 },
-          { name: "221501 - Bangladesh Studies", credit: 4 }
+          { name: "222707 - Physics-III (Electricity and Modern Physics)", credit: 4 },
+          { name: "222708 - Physics-IV (Physics Practical)", credit: 2 },
+          { name: "221109 - English (Compulsory)", credit: 0 }
         ]
       },
       "3": {
         major: [
-          { name: "232801 - Polymer Chemistry", credit: 3 },
-          { name: "232803 - Environmental Chemistry", credit: 3 },
-          { name: "232805 - Medicinal Chemistry", credit: 3 },
-          { name: "232806 - Chemistry Practical-III", credit: 3 },
-          { name: "233709 - Mathematical Chemistry", credit: 3 },
-          { name: "233711 - Chemical Kinetics", credit: 3 }
+          { name: "232801 - Physical Chemistry-III", credit: 4 },
+          { name: "232803 - Stereochemistry", credit: 4 },
+          { name: "232805 - Advanced Concepts of Atomic Structure and Chemical Bonding", credit: 4 },
+          { name: "232807 - Coordination Chemistry and Organometallic Chemistry", credit: 4 },
+          { name: "232809 - Fundamentals of Analytical Chemistry", credit: 4 },
+          { name: "232811 - Industrial Chemistry", credit: 4 },
+          { name: "232813 - Agricultural Chemistry", credit: 4 },
+          { name: "232814 - Physical Chemistry Practical", credit: 2 },
+          { name: "232816 - Organic Chemistry Practical (Detection & Preparation)", credit: 2 }
         ],
-        nonMajor: [
-          { name: "232701 - Quantum Mechanics", credit: 3 },
-          { name: "232706 - Physics Practical-III", credit: 3 },
-          { name: "233607 - Applied Statistics", credit: 4 },
-          { name: "233608 - Applied Statistics Practical", credit: 2 },
-          { name: "231501 - Environmental Science", credit: 4 }
-        ]
+        nonMajor: []
       },
       "4": {
         major: [
-          { name: "242801 - Advanced Organic Chemistry", credit: 3 },
-          { name: "242803 - Advanced Inorganic Chemistry", credit: 3 },
-          { name: "242805 - Advanced Physical Chemistry", credit: 3 },
-          { name: "242806 - Chemistry Practical-IV", credit: 3 },
-          { name: "243709 - Research Project", credit: 6 },
-          { name: "243711 - Seminar", credit: 2 }
+          { name: "242801 - Physical Chemistry-IV", credit: 4 },
+          { name: "242803 - Selected Topics in Organic Chemistry", credit: 4 },
+          { name: "242805 - Selected Topics in Inorganic Chemistry", credit: 4 },
+          { name: "242807 - Nuclear Chemistry", credit: 4 },
+          { name: "242809 - Organic Polymers", credit: 4 },
+          { name: "242811 - Reaction Mechanism", credit: 4 },
+          { name: "242813 - Separation Techniques", credit: 4 },
+          { name: "242815 - Chemical Spectroscopy", credit: 4 },
+          { name: "242816 - Practical Chemistry (Organic)", credit: 2 },
+          { name: "242818 - Practical Chemistry (Industrial)", credit: 2 },
+          { name: "242820 - Viva-voce", credit: 4 }
         ],
-        nonMajor: [
-          { name: "242701 - Nuclear Physics", credit: 3 },
-          { name: "242706 - Physics Practical-IV", credit: 3 },
-          { name: "243607 - Statistical Computing", credit: 4 },
-          { name: "243608 - Statistical Computing Practical", credit: 2 },
-          { name: "241501 - Computer Applications", credit: 4 }
-        ]
+        nonMajor: []
       }
     },
     "Math": {
       "1": {
         major: [
-          { name: "213601 - Calculus I", credit: 4 },
-          { name: "213603 - Linear Algebra", credit: 3 },
-          { name: "213605 - Discrete Mathematics", credit: 3 },
-          { name: "213606 - Mathematics Practical-I", credit: 3 },
-          { name: "213709 - Fundamentals of Mathematics", credit: 4 },
-          { name: "213711 - Calculus-I", credit: 2 }
+          { name: "213701 - Fundamentals of Mathematics", credit: 3 },
+          { name: "213703 - Calculus – I", credit: 3 },
+          { name: "213705 - Linear Algebra", credit: 3 },
+          { name: "213707 - Analytic and Vector Geometry", credit: 3 }
         ],
         nonMajor: [
-          { name: "212701 - Mechanics", credit: 3 },
-          { name: "212706 - Physics Practical-I", credit: 3 },
           { name: "212807 - Chemistry-I", credit: 4 },
           { name: "212808 - Chemistry-I Practical", credit: 2 },
+          { name: "213607 - Introduction to Statistics", credit: 4 },
+          { name: "213608 - Statistics Practical-I", credit: 2 },
+          { name: "212707 - Physics-I (Mechanics, Properties of Matter, Waves & Optics)", credit: 4 },
+          { name: "212709 - Physics-II (Heat, Thermodynamics and Radiation)", credit: 2 },
           { name: "211501 - History of the Emergence of Independent Bangladesh", credit: 4 }
         ]
       },
       "2": {
         major: [
-          { name: "223601 - Calculus II", credit: 4 },
-          { name: "223603 - Differential Equations", credit: 3 },
-          { name: "223605 - Number Theory", credit: 3 },
-          { name: "223606 - Mathematics Practical-II", credit: 3 },
-          { name: "223709 - Vector Analysis", credit: 3 },
-          { name: "223711 - Differential Equations", credit: 3 }
+          { name: "223701 - Calculus –II", credit: 4 },
+          { name: "223703 - Ordinary Differential Equations", credit: 4 },
+          { name: "223705 - Computer Programming (Fortran)", credit: 4 },
+          { name: "223706 - Math Lab (Practical)", credit: 4 }
         ],
         nonMajor: [
-          { name: "222701 - Electricity and Magnetism", credit: 3 },
-          { name: "222706 - Physics Practical-II", credit: 3 },
-          { name: "222807 - Chemistry-II", credit: 4 },
-          { name: "222808 - Chemistry-II Practical", credit: 2 },
-          { name: "221501 - Bangladesh Studies", credit: 4 }
+          { name: "222707 - Physics-III (Electricity and Modern Physics)", credit: 4 },
+          { name: "222708 - Physics-IV (Physics Practical)", credit: 2 },
+          { name: "222807 - General Chemistry-II", credit: 4 },
+          { name: "222809 - Environmental Chemistry", credit: 2 },
+          { name: "223609 - Methods of Statistics", credit: 4 },
+          { name: "223610 - Statistics Practical-II", credit: 2 },
+          { name: "221109 - English (Compulsory)", credit: 0 }
         ]
       },
       "3": {
         major: [
-          { name: "233601 - Real Analysis", credit: 4 },
-          { name: "233603 - Abstract Algebra", credit: 3 },
-          { name: "233605 - Numerical Analysis", credit: 3 },
-          { name: "233606 - Mathematics Practical-III", credit: 3 },
-          { name: "233709 - Mathematical Methods", credit: 3 },
-          { name: "233711 - Complex Analysis", credit: 3 }
+          { name: "233701 - Abstract Algebra", credit: 4 },
+          { name: "233703 - Real Analysis", credit: 4 },
+          { name: "233705 - Numerical Analysis", credit: 4 },
+          { name: "233707 - Complex Analysis", credit: 4 },
+          { name: "233709 - Differential Geometry", credit: 4 },
+          { name: "233711 - Mechanics", credit: 4 },
+          { name: "233713 - Linear Programming", credit: 4 },
+          { name: "233714 - Math Lab (Practical)", credit: 4 }
         ],
-        nonMajor: [
-          { name: "232701 - Quantum Mechanics", credit: 3 },
-          { name: "232706 - Physics Practical-III", credit: 3 },
-          { name: "232807 - Physical Chemistry", credit: 4 },
-          { name: "232808 - Physical Chemistry Practical", credit: 2 },
-          { name: "231501 - Environmental Science", credit: 4 }
-        ]
+        nonMajor: []
       },
       "4": {
         major: [
-          { name: "243601 - Complex Analysis", credit: 4 },
-          { name: "243603 - Topology", credit: 3 },
-          { name: "243605 - Functional Analysis", credit: 3 },
-          { name: "243606 - Mathematics Practical-IV", credit: 3 },
-          { name: "243709 - Research Project", credit: 6 },
-          { name: "243711 - Seminar", credit: 2 }
+          { name: "243701 - Theory of Numbers", credit: 4 },
+          { name: "243703 - Topology & Functional Analysis", credit: 4 },
+          { name: "243705 - Methods of Applied Mathematics", credit: 4 },
+          { name: "243707 - Tensor Analysis", credit: 4 },
+          { name: "243709 - Partial Differential equations", credit: 4 },
+          { name: "243711 - Hydrodynamics", credit: 4 },
+          { name: "243713 - Discrete Mathematics", credit: 4 },
+          { name: "243715 - Astronomy", credit: 4 },
+          { name: "243717 - Mathematical Modeling in Biology", credit: 4 },
+          { name: "243718 - Math Lab (Practical)", credit: 4 },
+          { name: "243720 - Viva-Voce (Comprehensive)", credit: 4 }
         ],
-        nonMajor: [
-          { name: "242701 - Nuclear Physics", credit: 3 },
-          { name: "242706 - Physics Practical-IV", credit: 3 },
-          { name: "242807 - Inorganic Chemistry", credit: 4 },
-          { name: "242808 - Inorganic Chemistry Practical", credit: 2 },
-          { name: "241501 - Computer Applications", credit: 4 }
-        ]
+        nonMajor: []
       }
     }
   };
